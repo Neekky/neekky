@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there 👋 I’m zengchao
+
+#### 我的仓库状态统计
+![all-smile's GitHub stats](https://github-readme-stats.vercel.app/api?username=Neekky&show_icons=true&theme=tokyonight)
+
+#### 我的主页访问量统计
+Welcome, You are my![Visitor Count](https://profile-counter.glitch.me/Neekky/count.svg)
+visitor, Thank You!🎉🎉
+
+#### 我的常用语言
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neekky&layout=compact&theme=tokyonight)
 
 <!--
 **Neekky/neekky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
