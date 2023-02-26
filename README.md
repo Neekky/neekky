@@ -10,12 +10,10 @@
 
 - 🚀 我日常使用:
   [![JavaScript](https://img.shields.io/badge/JavaScript-000000?logo=JavaScript&logoColor=FFCA28)](http://zcwl.work/threejs/#/)
-    [![React](https://img.shields.io/badge/React-282c34?logo=react)](http://zcwl.work/threejs/#/CarModelDisplay)
-
-
+  [![React](https://img.shields.io/badge/React-282c34?logo=react)](http://zcwl.work/threejs/#/CarModelDisplay)
   [![Git](https://img.shields.io/badge/-Git-000000?logo=git&logoColor=FF7043)](http://zcwl.work/threejs/#/GreetingCard)
   [![Nginx](https://img.shields.io/badge/-Nginx-F7F7F7?logo=nginx&logoColor=029137)](http://zcwl.work/threejs/#/GreetingCard)
-    [![Vue](https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D)](http://zcwl.work/threejs/#/BeautyIsland)
+  [![Vue](https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D)](http://zcwl.work/threejs/#/BeautyIsland)
   [![Webpack](https://img.shields.io/badge/-webpack-2B3A42?logo=webpack&logoColor=75AFCC)](http://zcwl.work/zhihu/#/)
   [![Typescript](https://img.shields.io/badge/-Typescript-fcfcfc?logo=Typescript&logoColor=2e79c7)](http://zcwl.work/zhihu/#/)
   [![Jenkins](https://img.shields.io/badge/-Jenkins-F6C915?logo=jenkins&logoColor=F16061)](http://zcwl.work/zhihu/#/)
