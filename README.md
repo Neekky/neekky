@@ -128,7 +128,7 @@
 
 使用Vue3，也是想感受下它的新组合式API，用起来和React的Hook差不太多，某些地方也更好用。不过Vue毕竟是个框架，很多地方写下来，感觉确实不如React灵活，没了JS那种直觉性语法。
 
-目前项目已写完大半，测试版本已部署至个人服务器，可以玩玩：
+~~目前项目已写完大半，测试版本已部署至个人服务器，可以玩玩：~~ 服务器目前下线了
 http://zcwl.work/zhihu/#/
 
 ## ThreeJS探索
@@ -138,10 +138,10 @@ http://zcwl.work/zhihu/#/
 
 作品也已部署至服务器上，有兴趣可以观看下😄😋
 demo链接：
-VR看房：http://zcwl.work/threejs/#/
+~~VR看房：http://zcwl.work/threejs/#/
 水天小岛：http://zcwl.work/threejs/#/BeautyIsland
 变色车模：http://zcwl.work/threejs/#/CarModelDisplay
-水天贺卡：http://zcwl.work/threejs/#/GreetingCard
+水天贺卡：http://zcwl.work/threejs/#/GreetingCard~~ 服务器目前下线了
 
 
 
