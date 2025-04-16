@@ -1,12 +1,11 @@
 ### Hi there 👋 I’m zengchao
 
-我是一名前端开发，热衷于将用户友好的界面与高效的代码结合起来，为用户创造最好的用户体验。
+我是一名前端开发，平时喜欢钻研些前沿技术，目前结合AI在做一个A股分析平台。
 
- 🔭 我目前在上海万物新生集团工作，成功将公司在美国干上市！😄😄
- 🌱 我目前正在做一个开源的全栈项目，接下来一段时间会持续为它迭代升级！
-
-这是项目地址：https://github.com/Neekky/realworld-vue3
-可以去玩玩
+ 🔭 我的工作路径：赞同科技 -> 彩贝壳 -> 爱回收 -> 数字马力，考虑到家庭，选择结束一线生活，回到长沙发展。
+ 🌱 我一直在做各类小项目，既是兴趣爱好，也是学习最新技术的方式，目前在做的 ** 大A股 AI分析平台 ** 
+ 
+ 有兴趣可以看看，分析每日A股投资建议：明富未来 http://mfuture.fun/
 
 - 🚀 我日常使用:
   [![JavaScript](https://img.shields.io/badge/JavaScript-000000?logo=JavaScript&logoColor=FFCA28)](http://zcwl.work/threejs/#/)
