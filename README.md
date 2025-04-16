@@ -7,10 +7,10 @@
  🌱 我一直在做各类小项目，既是兴趣爱好，也是学习最新技术的方式，目前在做的 ** 大A股 AI分析平台 ** 
  
  有兴趣可以看看，分析每日A股投资建议：明富未来 http://mfuture.fun/
-
-
-
- 
+<br />
+<br />
+<br />
+<br />
 
 - 🚀 我日常使用:
   [![JavaScript](https://img.shields.io/badge/JavaScript-000000?logo=JavaScript&logoColor=FFCA28)](http://zcwl.work/threejs/#/)
